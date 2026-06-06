@@ -1,0 +1,55 @@
+{
+  "manga_id": "manga-dragonslayers-peerless-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongsa-eopsneun Yongsa-ui Hoegwi",
+  "status": "Ongoing",
+  "author": "Heo-dae-san",
+  "artist": "Kim-dong-hoon",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Reincarnation",
+    "Adventure",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Umat manusia berada di ambang kepunahan akibat serangan naga. Pahlawan terakhir yang tersisa, seorang pembunuh naga legendaris, memutuskan untuk menggunakan sihir terlarang dan kembali ke masa lalu. Kini, dengan pengalaman dan pengetahuan dari masa depan, ia bertekad untuk memperbaiki segalanya dan menghabisi setiap naga sebelum bencana itu terjadi kembali.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Keputusasaan dan Harapan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-1/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-1/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-1/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-1/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-1/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Langkah Pertama Menuju Perubahan",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-2/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-2/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-2/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-2/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-2/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Akademi dan Pengakuan",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-3/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-3/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-3/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-3/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-regression/ch-3/005.jpg"
+      ]
+    }
+  ]
+}
